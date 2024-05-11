@@ -1,17 +1,4 @@
 
-# Cloud Data Engineering Course Content
-
-## For Training Contact 91 - 8374899166
-
-------
-
-This Repository has **Cloud Data Engineering** Training Materials developed by **Myla Ram Reddy**.
-
-Please contact **Renuka** for **Training and Exam DP-203: Data Engineering on Microsoft Azure** @ [8374899166](https://wa.me/918374899166)(whatsapp)
-
-------
-
-
 # Python Basic Level
 
 1. Install Anaconda
